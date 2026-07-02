@@ -1,0 +1,12 @@
+Algorithm,Clients,Best Accuracy,Final Accuracy,Best Round
+Centralized,NA,96.34,96.34,-
+FedAvg,3,93.10,93.10,8
+FedAvg,9,93.10,93.10,8
+FedSGD,3,28.97,28.97,8
+FedSGD,9,18.73,18.73,8
+FedProx,3,93.20,93.20,8
+FedProx,9,93.51,93.51,8
+FedAdam,3,64.54,64.54,8
+FedAdam,9,60.16,60.16,8
+FedDyn,3,93.41,93.41,8
+FedDyn,9,93.00,93.00,8
