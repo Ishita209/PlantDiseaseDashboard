@@ -3,6 +3,8 @@
 An interactive Streamlit dashboard for detecting apple leaf diseases using a deep learning model based on **InceptionV3** and comparing the performance of multiple **Federated Learning algorithms**.
 
 ---
+## Live Demo
+https://plantdiseasedashboard-apple.streamlit.app/
 
 ## 📌 Overview
 
